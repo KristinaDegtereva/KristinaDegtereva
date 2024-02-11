@@ -9,7 +9,7 @@
 ### ✨ Skills 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,github,html,css,figma,ai" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,,github,figma,ai" />
   </a>
 </p>
 
