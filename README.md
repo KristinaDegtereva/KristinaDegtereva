@@ -1,7 +1,4 @@
-# Hi there 👋, My name is Kristina
-
-
-## 💻 Frontend Developer
+## Hi there 👋, My name is Kristina
 
 *   I'm looking for a job as a frontend developer remotely or in the office
 *   I live in Moscow
