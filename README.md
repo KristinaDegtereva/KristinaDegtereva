@@ -1,19 +1,19 @@
-## Hi there 👋, My name is Kristina
+# Hi there 👋, My name is Kristina
 
 
-### :computer: Frontend Developer
+### 💻 Frontend Developer
 
 *   I'm looking for a job as a frontend developer remotely or in the office
 *   I live in Moscow
 
-  ### Skills 
+## ✨ Skills 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,github,html,css,figma,ai" />
   </a>
 </p>
 
-## Education :
+## 📝 Education
 ### Bashkir State Pedagogical University named after M. Akmulla
 Graphic Designer
  
