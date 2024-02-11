@@ -14,12 +14,12 @@
 </p>
 
 ## 📝 Education
-### Bashkir State Pedagogical University named after M. Akmulla
+- 2013-2017 Bashkir State Pedagogical University named after M. Akmulla
 Graphic Designer
  
 ## Additional Education :
 - Game interface design (UI/UX). School of computer graphics and game development "Fungi Studio"
-- Profession frontend developer, Hexlet 2023  
+- Profession frontend developer, Hexlet
 
 <br/>
 
