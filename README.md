@@ -21,14 +21,19 @@ Graphic Designer
 - Game interface design (UI/UX). School of computer graphics and game development "Fungi Studio"
 - Profession frontend developer, Hexlet
 
-<br/>
+### 🖥 Applied:
 
-| Repository |  Description |
-| -- | -- |
-| [Brain Games](https://github.com/KristinaDegtereva/frontend-project-44)| Set of 5 mathematical games. You must answer correctly three times in a row to win each game. If the answer is wrong, you can start any game again.|
-| [Difference Calculator](https://github.com/KristinaDegtereva/frontend-project-46) | Program that calculates and shows difference between two data structures|
-| [RSS aggregator](https://github.com/KristinaDegtereva/frontend-project-11) | A service for aggregating RSS feeds, which makes it convenient to read various sources, such as blogs|
+* Work with Git, GitHub, CI/CD (GitHub Action)
+* HTML, CSS
+* JavaScript(ES6+)
+* React
+* Tests(jest, CI)
+* Code coverage, code climate, ESlint
 
+### 🏫 Fundamental:
+
+* OOP
+* Refactoring
 
 ### ⚔ Codewars:
 
