@@ -14,7 +14,7 @@
 </p>
 
 ## Education :
-# Bashkir State Pedagogical University named after M. Akmulla
+Bashkir State Pedagogical University named after M. Akmulla
 Graphic Designer
  
 ## Additional Education :
