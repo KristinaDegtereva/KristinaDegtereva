@@ -17,23 +17,21 @@
 - Bashkir State Pedagogical University named after M. Akmulla
 Graphic Designer
  
-### Additional Education :
+### 📝 Additional Education :
 - Game interface design (UI/UX). School of computer graphics and game development "Fungi Studio"
 - Profession frontend developer, Hexlet
 
 ### 🖥 Applied:
 
-* Work with Git, GitHub, CI/CD (GitHub Action)
+* Git, GitHub
 * HTML, CSS
 * JavaScript(ES6+)
-* React
-* Tests(jest, CI)
-* Code coverage, code climate, ESlint
 
 ### 🏫 Fundamental:
 
-* OOP
-* Refactoring
+* React
+* Tests(jest, CI)
+* Code coverage, code climate, ESlint
 
 ### ⚔ Codewars:
 
