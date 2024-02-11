@@ -9,12 +9,12 @@
   ### Skills 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,git,github,html,css,figma,ai" />
+    <img src="https://skillicons.dev/icons?i=js,github,html,css,figma,ai" />
   </a>
 </p>
 
 ## Education :
-Bashkir State Pedagogical University named after M. Akmulla
+### Bashkir State Pedagogical University named after M. Akmulla
 Graphic Designer
  
 ## Additional Education :
